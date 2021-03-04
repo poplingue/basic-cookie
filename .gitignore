@@ -1,0 +1,25 @@
+# dependencies
+/node_modules/*
+ftp.info
+
+# testing
+/coverage
+
+# production
+/build
+/lib
+
+# IDE
+.circleci
+.vscode
+.idea
+
+
+# misc
+.DS_Store
+
+.directory
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
